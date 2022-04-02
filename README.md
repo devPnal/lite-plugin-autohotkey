@@ -2,8 +2,6 @@
 
 The AutoHotkey language plugin for 'Lite' and 'Lite-xl', the open source text editor
 
-![screenshot](/screenshot.png)
-
 
 ## How to use?
 
@@ -21,3 +19,8 @@ Copy `language_autohotkey.lua`, and paste it into the plugin directory.
 <github@pnal.soverin.net>
 
 Please contact in English or Korean(Native)
+
+
+## Screenshot
+
+![screenshot](/screenshot.png)
