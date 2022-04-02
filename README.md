@@ -17,4 +17,4 @@ Copy `language_autohotkey.lua`, and paste it into the plugin directory.
 
 <github@pnal.soverin.net>
 
-please contact in English or Korean(Native)
+Please contact in English or Korean(Native)
